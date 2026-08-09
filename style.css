@@ -56,3 +56,9 @@ main {
 .work-item p {
   margin-top: 0;
 }
+.work-item img {
+  max-width: 420px;
+  max-height: 45vh;
+  width: auto;
+  height: auto;
+}
